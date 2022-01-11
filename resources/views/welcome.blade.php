@@ -58,8 +58,8 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-6 d-flex flex-column justify-content-center pt-4 pt-lg-0 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="200">
-          <h1>Intelligent Data 😄 </h1>
-          <h2>Get insights on KYC,GA,IVR & AM </h2>
+          <h1>Intelligent Data <img src="https://img.icons8.com/clouds/100/000000/combo-chart.png"/> </h1>
+          <h2>Get real-time insights on KYC,GA,IVR & AM </h2>
           <div class="d-flex justify-content-center justify-content-lg-start">
             <!-- <a href="#about" class="btn-get-started scrollto">Get Started</a> -->
 
@@ -104,7 +104,7 @@
 
     <div class="container footer-bottom clearfix">
       <div class="copyright">
-         <strong>Airtel Networks Limited </strong>
+         <strong>🇰🇪  Airtel Networks Limited  🇰🇪 </strong>
       </div>
       <div class="credits">
         

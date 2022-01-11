@@ -10,16 +10,16 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #444444;
+  color: red;
 }
 
 a {
-  color: #47b2e4;
+  color: red;
   text-decoration: none;
 }
 
 a:hover {
-  color: #73c5eb;
+  color: #eb8b73;
   text-decoration: none;
 }
 
@@ -1551,7 +1551,7 @@ section {
   color: #fff;
 }
 #footer .copyright {
- display: flex;
+text-align: center;
  height: 45px;
  
 
